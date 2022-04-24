@@ -1,0 +1,7 @@
+hello word, git !
+This is hello.txt
+Hi !
+
+Good-bye!
+
+Now !
